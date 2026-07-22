@@ -31,19 +31,24 @@ An automated code evaluation and Learning Management System (LMS) built to strea
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/AbdurRahmanKhan000/Auto-Grading-Project.git](https://github.com/AbdurRahmanKhan000/Auto-Grading-Project.git)
-Navigate to the project directory:
 
-Bash
-cd Auto-Grading-Project/oop-studio-lms/lms
-Configure the Database:
-Update the src/main/resources/application.properties file with your local MySQL username and password.
+1. **Navigate into the directory:**
+   ```bash
+   cd Your-Project-Name
 
-Run the Application:
+2. Install dependencies:
+   npm install
+# or pip install -r requirements.txt, mvn install, etc.
 
-Bash
-mvn spring-boot:run
-Access the Platform:
-Open your browser and navigate to http://localhost:8080.
+3. Set up environment variables:
+Duplicate the .env.example file, rename it to .env, and add your local configurations.
+
+4. Run the application:
+
+
+
+
+
 
 👨‍💻 Author
 Abdur Rahman Khan
