@@ -1,6 +1,0 @@
-Set-Location -LiteralPath "F:\Auto Grading Project\oop-studio-lms\lms"
-.\mvnw.cmd spring-boot:run
-
-
-
-http://localhost:8080/login
